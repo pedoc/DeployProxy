@@ -1,0 +1,13 @@
+[
+  {
+    "Name": "DataSupervision",
+    "IsEnable": true,
+    "LocalDirectory": "Temp\\Repo",
+    "PublishDirectory": "Temp\\Publish",
+    "Branch": "master",
+    "Username": "pedoc",
+    "Password": "13771125131ghs",
+    "Email": "pedoc@qq.com",
+    "Script": "publish service\\DataSupervision.Api\\DataSupervision.Api.csproj -c Release -o ..\\Publish"
+  }
+]
